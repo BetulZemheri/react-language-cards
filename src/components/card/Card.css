@@ -14,7 +14,7 @@
 
 .bars {
     height: 41rem;
-    width: 5rem;
+    width: 3.5rem;
     background-color: rgb(193, 136, 136);
     position: relative;
     transform: rotate(-45deg);
@@ -25,10 +25,10 @@
 .language-title {
     grid-area: top;
     text-align: center;
-    color: rgb(80, 50, 21);
+    color: rgb(21, 54, 131);
     font-weight: bold;
-    font-size: 2rem;
-    font-family: cursive;
+    font-size: 2.5rem;
+    font-family: fantasy;
     margin-top: 1rem;
 }
 
